@@ -1,1 +1,1 @@
-# Open-AI-Service
+# OpenAI-Service
